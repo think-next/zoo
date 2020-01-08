@@ -1,0 +1,18 @@
+@import "./../npm/wepy-com-toast/toast.wxss";
+@import "./../components/group.wxss";
+@import "./../components/wepy-list.wxss";
+@import "./../components/counter.wxss";
+@import "./../components/panel.wxss";
+.user-info {
+  margin: 0 28 rpx 0;
+  height: 72 rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.user-icon {
+  width: 40 rpx;
+  height: 40 rpx;
+  border-radius: 50%;
+  overflow: hidden;
+}

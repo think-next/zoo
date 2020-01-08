@@ -1,0 +1,26 @@
+.header {
+  margin: 90 rpx 0 90 rpx 50 rpx;
+  text-align: center;
+  width: 650 rpx;
+  height: 300 rpx;
+  line-height: 450 rpx;
+}
+.header image {
+  width: 200 rpx;
+  height: 200 rpx;
+  border-radius: 100 rpx;
+}
+.content {
+  margin-left: 50 rpx;
+  margin-bottom: 90 rpx;
+}
+.content text {
+  display: block;
+  color: #9d9d9d;
+  margin-top: 40 rpx;
+}
+.bottom {
+  border-radius: 80 rpx;
+  margin: 70 rpx 50 rpx;
+  font-size: 35 rpx;
+}

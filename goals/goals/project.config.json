@@ -1,0 +1,17 @@
+{
+	"description": "goals",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wx18fc1f8b38c9c36c",
+	"projectname": "%E5%B0%8F%E6%97%A5%E5%B8%B8",
+	"miniprogramRoot": "dist/",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
+}
